@@ -35,14 +35,13 @@ power lines.
 
 ### Board pinout
 
-{{< image-resize "http://www.ha2lab.org/images/devices/leia_pinout.png" >}}
-
+![](http://www.ha1lab.org/images/devices/leia_pinout.png | width=512)
 
 ### Testing points
 
-{{< image-resize "http://www.ha2lab.org/images/devices/leia_test_points_top.png" >}}
+![](http://www.ha1lab.org/images/devices/leia_test_points_top.png | width=512)
 
-{{< image-resize "http://www.ha2lab.org/images/devices/leia_test_points_bot.png" >}}
+![](http://www.ha1lab.org/images/devices/leia_test_points_bot.png | width=512)
 
 ### Current sense
 When sensing current, the designer can choose to place
@@ -92,7 +91,7 @@ meets the needs. This resistor, as it induces a maximum voltage drop far
 from the limit, allows us to get clean measurements.
 Connectors and measurement. 
 
-{{< image-resize "/images/devices/leia_shunt_circuit.png" >}}
+![](http://www.ha1lab.org/images/devices/leia_shunt_circuit.png | width=512)
 
 
 ### Measurements bandwidth
