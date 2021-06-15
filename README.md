@@ -35,13 +35,15 @@ power lines.
 
 ### Board pinout
 
-![](http://www.ha1lab.org/images/devices/leia_pinout.png | width=512)
+<img src="http://www.h2lab.org/images/devices/leia_pinout.png" width="512">
+
 
 ### Testing points
 
-![](http://www.ha1lab.org/images/devices/leia_test_points_top.png | width=512)
+<img src="http://www.h2lab.org/images/devices/leia_test_points_top.png" width="512">
 
-![](http://www.ha1lab.org/images/devices/leia_test_points_bot.png | width=512)
+
+<img src="http://www.h2lab.org/images/devices/leia_test_points_bot.png" width="512">
 
 ### Current sense
 When sensing current, the designer can choose to place
@@ -91,7 +93,7 @@ meets the needs. This resistor, as it induces a maximum voltage drop far
 from the limit, allows us to get clean measurements.
 Connectors and measurement. 
 
-![](http://www.ha1lab.org/images/devices/leia_shunt_circuit.png | width=512)
+<img src="http://www.h2lab.org/images/devices/leia_shunt_circuit.png" width="512">
 
 
 ### Measurements bandwidth
@@ -108,7 +110,8 @@ In order to setup LEIA in the measure mode:
  * Move the tearing jumper to the OFF position.
  * Setup the power source for the smartcard. We would advise an external "clean" power source for clean measurements. However, we are able to get proper traces with the USB-C power supply on the funcard. 
 
-{{< image-resize "/images/devices/leia_traces_cheap_scope.jpeg" >}}
+<img src="http://www.h2lab.org/images/devices/leia_traces_cheap_scope.jpeg" width="512">
+
 
 Testing setup : 
 
